@@ -1,0 +1,8 @@
+1. Variable adalah tempat menyimpan data
+
+2. Java = bahasa static type, sehingga sebuah variable hanya bisa digunakan untuk menyimpan tipe data yang sama,
+tidak bisa berubah-rubah tipe data seperti di bahasa pemrograman PHP atau javaScript.
+
+3. membuat variabl di java, kita bisa menggunakan nama tipe data lalu diikuti dengan nama variablenya
+
+4. nama variable tak boleh mengandung whiteSpace (spasi, enter, tab) dan tak boleh seluruhnya number(angka)
