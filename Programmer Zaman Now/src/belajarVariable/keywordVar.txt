@@ -1,0 +1,3 @@
+sejak versi 10, java mendukung pembuatan variable dengan keyword Var, (tidak perlu menyebutkan tipe datanya)
+
+perlu, di ingat, saat menggunakan keyword Var untuk variable, kita harus menginisiasi value(nilai) dari variable tersebut)
