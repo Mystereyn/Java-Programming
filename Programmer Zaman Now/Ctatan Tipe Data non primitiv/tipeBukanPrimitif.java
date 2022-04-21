@@ -1,3 +1,4 @@
+package nonPrimitive;
 public class tipeBukanPrimitif {
 
     public static void main(String[] args) {
@@ -12,19 +13,24 @@ public class tipeBukanPrimitif {
         
         */
 
-        Character thisChar = null;
-        Float thisFloat= null;
-        Integer thisInteger = null;
-        Boolean thisBoolean = null;
+    
+        Float thisFloat= 20.2f;
+        Integer thisInteger = 1000;
         Byte thisByte = null;
+
+        //jika Byte diganti dengan value 100
+
+        thisByte = 100;
 
         //menampilkan variabel
         System.out.println(thisByte);
         System.out.println(thisFloat);
-        System.out.println(thisChar);
-        System.out.println(thisBoolean);
+      
+      
         System.out.println(thisInteger);
         
+        System.out.println("Semua Hasil tipe datanya = " + thisFloat*thisInteger*thisByte);
+
     }
     
 }
