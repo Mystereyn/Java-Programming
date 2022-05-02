@@ -9,5 +9,7 @@ public class unaryOperator {
 
         d--; //outpunyt adalah 100 -- (berkurang satu)
         System.out.println(d);
+
+        System.out.println(!true); //false , karna ! adalah kebalikan 
     }
 }
