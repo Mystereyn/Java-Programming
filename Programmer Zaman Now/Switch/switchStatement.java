@@ -19,7 +19,7 @@ public class switchStatement {
             case "D":
                 System.out.println("Anda gagal");
                 break;
-            default:
+            default: //default hampir sama dengan else.
                 System.out.println("Anda lebih baik giat belajar!");
 
             };
