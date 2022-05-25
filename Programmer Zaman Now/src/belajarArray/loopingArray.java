@@ -1,4 +1,4 @@
-package belajarAray;
+package belajarArray;
 
 public class loopingArray {
     public static void main(String[] args) {

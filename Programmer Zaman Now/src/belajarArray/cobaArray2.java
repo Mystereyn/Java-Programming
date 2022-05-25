@@ -1,4 +1,4 @@
-package belajarAray;
+package belajarArray;
 
 public class cobaArray2 {
 
