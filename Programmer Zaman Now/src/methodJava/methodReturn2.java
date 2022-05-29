@@ -1,5 +1,6 @@
 package methodJava;
 
+//contoh kedua
 public class methodReturn2 {
     public static void main(String[] args) {
 
