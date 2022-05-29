@@ -12,7 +12,6 @@ public class learnVariable {
 
         String name;
         name = "Teuku Reynaldi";
-        name = "Putra Reynaldi";
 
         byte umur;
         umur = 21;
@@ -23,6 +22,9 @@ public class learnVariable {
 
         /*value variable yang telah diganti yang baru */
         /*Outputnya adalah mennjadi "Putra Reynaldi" bukan lagi "Teuku Reynaldi" */
+
+
+        name = "Putra Reynaldi";
 
         /* ---------Catatatan---------
 

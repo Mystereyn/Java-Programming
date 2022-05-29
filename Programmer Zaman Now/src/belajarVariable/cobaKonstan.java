@@ -1,3 +1,4 @@
+package belajarVariable;
 public class cobaKonstan {
 
     public static void main(String[] args) {
