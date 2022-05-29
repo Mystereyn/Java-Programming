@@ -6,6 +6,10 @@ public class methodReturn2 {
 
         var hasil1 = tambah(100,100);
         System.out.println(hasil1);
+
+        var hasil2 = tambah(200, 200);
+        System.out.println(hasil2);
+        System.out.println(tambah(400,400));
         
     }
     static int tambah(int nilai1 , int nilai2) {
