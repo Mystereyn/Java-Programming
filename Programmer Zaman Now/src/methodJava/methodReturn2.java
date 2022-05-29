@@ -12,9 +12,22 @@ public class methodReturn2 {
         System.out.println(hasil2);
         System.out.println(tambah(400,400));
         
-    }
-    static int tambah(int nilai1 , int nilai2) {
+    } static int tambah(int nilai1 , int nilai2) {
         var keseluruhan = nilai1 + nilai2;
         return keseluruhan;
+        
+    } static int tambah(int nilai1 , String operate , int nilai2) {
+
+        switch (operate) {
+            case "+" :
+            return nilai1 + nilai2;
+
+            case "-" :
+            return nilai1 - nilai2;
+
+            case
+        }
+
     }
-}
+    
+} 
