@@ -21,7 +21,7 @@ public class methodReturn2 {
         System.out.println(hitung(600, "/", 600));
         System.out.println(hitung(600, "*" , 600));
         System.out.println(hitung(600, "%" , 600));
-        
+        System.out.println(hitung(600, "salah", 600));
         System.out.println("\n");
         System.out.println("====it's done====");
         
