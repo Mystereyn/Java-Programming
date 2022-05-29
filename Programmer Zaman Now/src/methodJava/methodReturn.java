@@ -20,7 +20,7 @@ public class methodReturn { //method return value
 
     static int tambah(int value1, int value2) {
         var total = value1 + value2;
-        return total; 
+        return total;
     }
 }
         

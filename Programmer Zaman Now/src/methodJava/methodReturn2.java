@@ -16,8 +16,9 @@ public class methodReturn2 {
         var keseluruhan = nilai1 + nilai2;
         return keseluruhan;
         
-    } static int tambah(int nilai1 , String operate , int nilai2) {
-
+    } // jika ingin melakukan return pada percabangan 
+    static int tambah(int nilai1 , String operate , int nilai2) {
+        
         switch (operate) {
             case "+" :
             return nilai1 + nilai2;
@@ -25,7 +26,12 @@ public class methodReturn2 {
             case "-" :
             return nilai1 - nilai2;
 
-            case
+            case "/" : 
+            return nilai1 / nilai2;
+
+            default :
+            return 0; // < jika tidak ingin dioperasi
+
         }
 
     }
