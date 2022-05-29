@@ -4,7 +4,7 @@ public class methodParam {
     public static void main(String[] args) {
         
         myName("Teuku" , "Reynaldi");  
-        myUmur(21);
+        myUmur(21); 
 
     }
 
