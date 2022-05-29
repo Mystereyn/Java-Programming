@@ -4,6 +4,7 @@ package methodJava;
 public class methodReturn2 {
     public static void main(String[] args) {
 
+        //int nilai1 , int nilai2
         var hasil1 = tambah(100,100);
         System.out.println(hasil1);
 
