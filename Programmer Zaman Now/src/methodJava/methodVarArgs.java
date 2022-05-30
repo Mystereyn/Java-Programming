@@ -17,7 +17,7 @@ public class methodVarArgs {
         ucapSelamat( "Putra Irwansyah", 70,75,80,85,90);
     }
 
-    static void ucapSelamat(String nama , int... rata_rata) {
+    static void ucapSelamat(String nama , int... rata_rata) { // ini adalah method var args
         var total = 0;
         for(var nilai : rata_rata) {
             total += nilai;
