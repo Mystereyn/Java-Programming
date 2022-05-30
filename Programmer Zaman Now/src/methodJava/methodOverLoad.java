@@ -6,6 +6,12 @@ public class methodOverLoad {
         sayHello();
         sayHello("Putra");
         sayHello("Teuku Reynaldi" , 21 );
+
+        /** Syarat method Over Loading adalah : 
+         *  
+         * 1. Bisa memakai nama Function / Method Yang sebanyak banyaknya 
+         *  2. Dengan isian parameter yang berbeda 
+         */
     }
     
 
