@@ -25,3 +25,22 @@ public class methodOverLoad {
         System.out.println("Hallo nama gue adalah" + " " + nama1 + " " +  "Umur Gue adalah "  + umur);
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
