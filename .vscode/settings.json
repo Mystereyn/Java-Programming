@@ -3,5 +3,6 @@
         "Programmer Zaman Now/src",
         "Programmer Zaman Now/Switch",
         "Programmer Zaman Now/switchList"
-    ]
+    ],
+    "rpc.enabled": false
 }
