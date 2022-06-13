@@ -4,5 +4,15 @@
         "Programmer Zaman Now/Switch",
         "Programmer Zaman Now/switchList"
     ],
-    "rpc.enabled": false
+    "rpc.enabled": true,
+    "rpc.appName": "Visual Studio Code",
+    "rpc.buttonEnabled": true,
+    "rpc.detailsEditing": "In Workspace :  {workspace} ",
+    "rpc.detailsIdling": "AFK.",
+    "rpc.detailsViewing": "In Workspace : {workspace}",
+    "rpc.idleText": "Pfffft",
+    "rpc.idleTimeout": 200,
+    "rpc.lowerDetailsEditing": "Editing {file_name}:",
+    "rpc.lowerDetailsViewing": "Editing {file_name}",
+    "rpc.showProblems": false
 }
